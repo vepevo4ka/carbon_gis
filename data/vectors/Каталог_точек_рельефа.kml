@@ -1,0 +1,1076 @@
+<?kml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<!-- File written using Surfer by Golden Software LLC. -->
+<Document>
+<Folder>
+  <name>Post-Каталог_точек_рельефа.txt</name>
+  <Style id="Style_1">
+    <IconStyle><Icon><href>Каталог_точек_рельефа.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 12</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.993886389999993,54.9108570199999946,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 19</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9940994599999939,54.9107870000000062,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 26</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9943027999999927,54.9107208399999962,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 33</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9945033099999918,54.9106558900000081,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 40</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9947098099999963,54.9105969700000074,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 47</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9949099399999923,54.9105286199999938,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 54</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.995113939999996,54.9104648799999921,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 61</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9953155299999921,54.9104014999999919,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 68</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9955247499999942,54.9103302399999933,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 75</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9957315999999921,54.9102654500000043,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 82</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9959366899999935,54.9101992400000043,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 89</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9961419099999915,54.9101356199999913,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 96</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9963415099999935,54.9100729500000071,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 103</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9965518499999959,54.9100036600000081,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 110</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9967504399999925,54.9099407899999932,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 117</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.996951899999992,54.9098743799999909,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 124</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9971508999999941,54.9098073099999908,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 131</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9973667099999943,54.9097487499999914,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 138</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9975673399999962,54.9096804400000096,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 145</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9974496599999938,54.9095616700000093,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 152</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9972500599999918,54.909625080000005,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 159</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9970411599999949,54.9096925599999963,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 166</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9968461899999923,54.9097575200000065,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 173</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9966402899999949,54.9098256100000057,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 180</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9964338199999929,54.9098869899999897,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 187</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9962242499999903,54.9099503399999946,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 194</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9960160299999927,54.9100181300000045,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 201</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.99581538999999,54.9100810500000094,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 208</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9956086499999941,54.9101510799999915,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 215</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9954132499999915,54.9102182500000069,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 222</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9952015299999957,54.9102801499999913,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 229</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9950001899999918,54.9103432999999939,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 236</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9947929499999901,54.9104081900000054,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 243</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9945928999999936,54.9104763900000066,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 250</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9943848399999951,54.9105409700000067,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 257</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9941788799999927,54.9106051700000037,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 264</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9939837099999949,54.9106698400000042,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 271</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9937678199999951,54.9107370900000049,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 278</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9936650899999933,54.9106175900000082,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 285</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9938677699999943,54.9105574099999956,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 292</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9940712999999946,54.9104929800000079,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 299</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9942769699999943,54.9104248399999904,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 306</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9944822699999918,54.9103586299999904,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 313</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9946834199999941,54.910296840000008,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 320</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9948858999999928,54.9102258500000104,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 327</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9950864099999919,54.9101590300000097,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 334</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9952963099999934,54.9100966700000086,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 341</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.995505449999996,54.910033569999996,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 348</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9957049799999922,54.9099656800000062,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 355</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9959052299999911,54.9098993600000043,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 362</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.996112679999996,54.9098341799999901,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 369</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.996316489999991,54.9097716599999899,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 376</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9965229999999963,54.9097033599999946,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 383</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9967309699999944,54.9096395600000093,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 390</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9969275399999944,54.9095730699999933,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 397</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9971329799999964,54.9095058199999926,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 404</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9973342399999936,54.9094472099999962,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 411</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9972318399999907,54.9093281800000099,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 418</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9970259799999894,54.9093917000000076,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 425</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.996817319999991,54.9094574899999941,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 432</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9966074999999961,54.9095192300000079,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 439</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.996406609999994,54.9095837900000063,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 446</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9962047599999906,54.9096523100000056,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 453</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.995997409999994,54.9097214600000072,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 460</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9957997099999929,54.9097859100000036,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 467</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9955976599999943,54.9098492499999935,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 474</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9953937599999918,54.9099105699999939,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 481</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9951866799999962,54.9099775600000086,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 488</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9949853399999924,54.9100407099999899,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 495</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9947700299999909,54.9101066800000055,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 502</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9945654399999952,54.9101744099999962,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 509</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9943642399999959,54.9102413899999959,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 516</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9941636499999902,54.9103076200000046,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 523</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9939586999999932,54.9103713899999946,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 530</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9937476599999897,54.9104355500000096,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 537</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9935415999999933,54.9104978500000058,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 544</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9934304099999949,54.9103810700000068,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 551</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9936359299999964,54.9103227299999901,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 558</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9938313199999911,54.9102476300000077,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 565</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9940413799999916,54.910186589999995,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 572</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9942487699999916,54.9101232799999934,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 579</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9944527299999919,54.910057970000004,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 586</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9946583099999913,54.9099911900000066,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 593</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9948649299999914,54.9099290399999944,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 600</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9950738999999942,54.9098594700000078,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 607</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9952695599999899,54.9097960799999925,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 614</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9954721199999952,54.9097320699999898,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 621</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9956778999999898,54.9096621300000081,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 628</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.99589035999999,54.9096013500000097,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 635</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9960897999999929,54.9095345600000044,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 642</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9962943599999932,54.9094690399999905,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 649</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9965011199999907,54.9094019500000101,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 656</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9967057399999959,54.9093401899999947,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 663</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9969061199999913,54.9092747999999915,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 670</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9971188199999901,54.9092076500000061,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 677</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9969983999999954,54.9090946399999922,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 684</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9968026199999898,54.9091559399999909,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 691</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9965931799999908,54.9092220500000039,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 698</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9963831199999902,54.9092885099999961,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 705</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9961877999999942,54.9093537799999893,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 712</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9959803299999948,54.9094169000000036,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 719</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9957735599999964,54.9094851600000098,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 726</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9955695399999911,54.9095487000000091,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 733</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9953637599999894,54.909611869999992,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 740</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.995155749999995,54.9096776499999919,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 747</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9949586199999914,54.9097471199999916,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 754</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9947492699999927,54.909811530000006,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 761</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9945481499999929,54.9098747300000056,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 768</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9943425099999956,54.9099370599999901,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 775</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9941328399999918,54.9100051399999955,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 782</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9939310799999959,54.9100676899999911,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 789</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9937348499999956,54.9101349000000098,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 796</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9935285699999952,54.910202770000005,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 803</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9933236399999927,54.9102684899999929,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 810</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9932065099999932,54.9101491499999952,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 817</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9934066399999963,54.9100810500000094,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 824</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9936175599999899,54.9100193099999956,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 831</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9938216299999922,54.909952660000009,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 838</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9940250599999914,54.9098858999999919,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 845</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9942276599999929,54.9098255000000037,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 852</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9944299699999917,54.909758900000007,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 859</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9946310699999898,54.9096867800000084,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 866</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9948345899999964,54.9096303700000092,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 873</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9950512299999943,54.9095614300000037,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 880</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9952538899999936,54.9094961000000055,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 887</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.995453739999995,54.9094365900000057,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 894</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9956620299999912,54.9093634599999945,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 901</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9958597199999915,54.9093000300000043,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 908</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9960680399999902,54.9092354000000071,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 915</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9962717899999944,54.909170919999994,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 922</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9964783999999938,54.9091066099999949,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 929</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9966808999999941,54.9090416699999935,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 936</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9968887399999957,54.9089757900000066,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 943</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9967747999999901,54.908854319999989,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 950</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9965713899999926,54.9089170999999823,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 957</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9963667999999899,54.9089884700000042,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 964</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9961585299999953,54.9090490899999963,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 971</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9959573399999897,54.9091153499999933,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 978</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9957484999999906,54.9091767399999924,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 985</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.995547099999996,54.9092468300000078,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 992</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9953436999999923,54.9093126699999914,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 999</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9951461299999949,54.9093776099999928,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 1006</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.994939219999992,54.9094455100000047,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 1013</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9947263399999926,54.9095055600000066,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 1020</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9945293299999918,54.9095733500000094,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 1027</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9943185999999926,54.9096368300000037,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 1034</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9941154799999907,54.9097051400000069,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 1041</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9939126999999957,54.9097685900000059,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 1048</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9937114499999922,54.9097937800000082,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 1055</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.993504989999991,54.9098976400000041,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 1062</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.993296419999993,54.9099621099999951,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Object ID 1069</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9930873699999907,54.9100300300000086,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+</Document>
+</kml>

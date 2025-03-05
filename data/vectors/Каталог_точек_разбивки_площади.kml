@@ -1,0 +1,345 @@
+<?kml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<!-- File written using Surfer by Golden Software LLC. -->
+<Document>
+<Folder>
+  <name>Post-Каталог_точек_разбивки_площади.txt</name>
+  <Style id="Style_1">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 14</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9939139999999895,54.9107430000000036,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_2">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim1</name>
+    <styleUrl>#Style_2</styleUrl>
+    <Point>
+      <coordinates>34.9939139999999895,54.9107599824562129,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_3">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 24</name>
+    <styleUrl>#Style_3</styleUrl>
+    <Point>
+      <coordinates>34.9950049999999919,54.9103949999999941,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_4">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim2</name>
+    <styleUrl>#Style_4</styleUrl>
+    <Point>
+      <coordinates>34.9950049999999919,54.9104119824562318,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_5">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 34</name>
+    <styleUrl>#Style_5</styleUrl>
+    <Point>
+      <coordinates>34.9960949999999897,54.9100469999999916,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_6">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim3</name>
+    <styleUrl>#Style_6</styleUrl>
+    <Point>
+      <coordinates>34.9960949999999897,54.9100639824562293,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_7">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 44</name>
+    <styleUrl>#Style_7</styleUrl>
+    <Point>
+      <coordinates>34.9971859999999921,54.9096990000000105,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_8">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim4</name>
+    <styleUrl>#Style_8</styleUrl>
+    <Point>
+      <coordinates>34.9971859999999921,54.9097159824562198,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_9">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 54</name>
+    <styleUrl>#Style_9</styleUrl>
+    <Point>
+      <coordinates>34.9937019999999919,54.9105230000000049,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_10">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim5</name>
+    <styleUrl>#Style_10</styleUrl>
+    <Point>
+      <coordinates>34.9937019999999919,54.9105399824562141,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_11">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 64</name>
+    <styleUrl>#Style_11</styleUrl>
+    <Point>
+      <coordinates>34.9947929999999943,54.9101749999999953,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_12">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim6</name>
+    <styleUrl>#Style_12</styleUrl>
+    <Point>
+      <coordinates>34.9947929999999943,54.910191982456233,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_13">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 74</name>
+    <styleUrl>#Style_13</styleUrl>
+    <Point>
+      <coordinates>34.9958829999999921,54.9098269999999928,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_14">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim7</name>
+    <styleUrl>#Style_14</styleUrl>
+    <Point>
+      <coordinates>34.9958829999999921,54.9098439824562305,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_15">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 84</name>
+    <styleUrl>#Style_15</styleUrl>
+    <Point>
+      <coordinates>34.9969739999999945,54.9094789999999904,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_16">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim8</name>
+    <styleUrl>#Style_16</styleUrl>
+    <Point>
+      <coordinates>34.9969739999999945,54.9094959824562281,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_17">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 94</name>
+    <styleUrl>#Style_17</styleUrl>
+    <Point>
+      <coordinates>34.9936799999999906,54.9105000000000061,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_18">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim9</name>
+    <styleUrl>#Style_18</styleUrl>
+    <Point>
+      <coordinates>34.9936799999999906,54.9105169824562154,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_19">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 104</name>
+    <styleUrl>#Style_19</styleUrl>
+    <Point>
+      <coordinates>34.994770999999993,54.9101520000000036,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_20">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim10</name>
+    <styleUrl>#Style_20</styleUrl>
+    <Point>
+      <coordinates>34.994770999999993,54.9101689824562129,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_21">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 114</name>
+    <styleUrl>#Style_21</styleUrl>
+    <Point>
+      <coordinates>34.9958609999999908,54.9098039999999941,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_22">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim11</name>
+    <styleUrl>#Style_22</styleUrl>
+    <Point>
+      <coordinates>34.9958609999999908,54.9098209824562318,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_23">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 124</name>
+    <styleUrl>#Style_23</styleUrl>
+    <Point>
+      <coordinates>34.9969519999999932,54.9094559999999916,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_24">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim12</name>
+    <styleUrl>#Style_24</styleUrl>
+    <Point>
+      <coordinates>34.9969519999999932,54.9094729824562293,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_25">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 134</name>
+    <styleUrl>#Style_25</styleUrl>
+    <Point>
+      <coordinates>34.9934679999999929,54.9102800000000073,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_26">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim13</name>
+    <styleUrl>#Style_26</styleUrl>
+    <Point>
+      <coordinates>34.9934679999999929,54.9102969824562166,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_27">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 144</name>
+    <styleUrl>#Style_27</styleUrl>
+    <Point>
+      <coordinates>34.9945589999999953,54.9099320000000048,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_28">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim14</name>
+    <styleUrl>#Style_28</styleUrl>
+    <Point>
+      <coordinates>34.9945589999999953,54.9099489824562141,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_29">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 154</name>
+    <styleUrl>#Style_29</styleUrl>
+    <Point>
+      <coordinates>34.9956489999999931,54.9095839999999953,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_30">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim15</name>
+    <styleUrl>#Style_30</styleUrl>
+    <Point>
+      <coordinates>34.9956489999999931,54.909600982456233,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_31">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_площади.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 164</name>
+    <styleUrl>#Style_31</styleUrl>
+    <Point>
+      <coordinates>34.9967399999999955,54.9092359999999928,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_32">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Perim16</name>
+    <styleUrl>#Style_32</styleUrl>
+    <Point>
+      <coordinates>34.9967399999999955,54.9092529824562305,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+</Document>
+</kml>

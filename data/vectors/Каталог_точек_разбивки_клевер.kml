@@ -1,0 +1,177 @@
+<?kml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<!-- File written using Surfer by Golden Software LLC. -->
+<Document>
+<Folder>
+  <name>Post-Каталог_точек_разбивки_клевера.txt</name>
+  <Style id="Style_1">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_клевер.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 14</name>
+    <styleUrl>#Style_1</styleUrl>
+    <Point>
+      <coordinates>34.9966480066289947,54.9087350062609829,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_2">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>PerimKL1</name>
+    <styleUrl>#Style_2</styleUrl>
+    <Point>
+      <coordinates>34.9966480066289947,54.9087519887172206,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_3">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_клевер.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 24</name>
+    <styleUrl>#Style_3</styleUrl>
+    <Point>
+      <coordinates>34.9981819956119935,54.9081180061250009,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_4">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>PerimKL2</name>
+    <styleUrl>#Style_4</styleUrl>
+    <Point>
+      <coordinates>34.9981819956119935,54.9081349885812102,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_5">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_клевер.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 34</name>
+    <styleUrl>#Style_5</styleUrl>
+    <Point>
+      <coordinates>34.9996225161229901,54.9075392064119825,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_6">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>PerimKl3</name>
+    <styleUrl>#Style_6</styleUrl>
+    <Point>
+      <coordinates>34.9996225161229901,54.9075561888682202,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_7">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_клевер.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 44</name>
+    <styleUrl>#Style_7</styleUrl>
+    <Point>
+      <coordinates>35.0004820046109941,54.9071930061279829,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_8">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>PerimKL4</name>
+    <styleUrl>#Style_8</styleUrl>
+    <Point>
+      <coordinates>35.0004820046109941,54.9072099885842206,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_9">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_клевер.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 54</name>
+    <styleUrl>#Style_9</styleUrl>
+    <Point>
+      <coordinates>34.9964249964889902,54.9085500046809969,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_10">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>PerimKL5</name>
+    <styleUrl>#Style_10</styleUrl>
+    <Point>
+      <coordinates>34.9964249964889902,54.9085669871372062,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_11">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_клевер.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 64</name>
+    <styleUrl>#Style_11</styleUrl>
+    <Point>
+      <coordinates>34.9979590001969925,54.9079340047870019,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_12">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>PerimKL6</name>
+    <styleUrl>#Style_12</styleUrl>
+    <Point>
+      <coordinates>34.9979590001969925,54.9079509872432112,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_13">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_клевер.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 74</name>
+    <styleUrl>#Style_13</styleUrl>
+    <Point>
+      <coordinates>34.9993956140129896,54.9073516766079877,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_14">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>PerimKl7</name>
+    <styleUrl>#Style_14</styleUrl>
+    <Point>
+      <coordinates>34.9993956140129896,54.9073686590642254,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_15">
+    <IconStyle><Icon><href>Каталог_точек_разбивки_клевер.icon1.gif</href></Icon></IconStyle>
+  </Style>
+  <Placemark>
+    <name>Object ID 84</name>
+    <styleUrl>#Style_15</styleUrl>
+    <Point>
+      <coordinates>35.0002590035779946,54.9070090000479993,0</coordinates>
+    </Point>
+  </Placemark>
+  <Style id="Style_16">
+    <IconStyle><Icon></Icon></IconStyle>
+    <LabelStyle><color>ff000000</color></LabelStyle>
+  </Style>
+  <Placemark>
+    <name>PerimKL8</name>
+    <styleUrl>#Style_16</styleUrl>
+    <Point>
+      <coordinates>35.0002590035779946,54.9070259825042086,0</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+</Document>
+</kml>
